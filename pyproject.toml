@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ja-web-spam-filter"
+version = "0.1.0"
+readme = "README.md"
+license = {file = "LICENSE"}
+description = "Rule-based document filtering for Japanese web corpora"
+requires-python = ">=3.11"
+
+[project.scripts]
+ja-web-spam-filter = "ja_web_spam_filter.__main__:main"
+
+[tool.setuptools.package-data]
+ja_web_spam_filter = ["*.json"]

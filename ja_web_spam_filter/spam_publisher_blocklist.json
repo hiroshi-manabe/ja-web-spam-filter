@@ -1,0 +1,2538 @@
+{
+  "evidence_revision": "af9c13333eb981300149d5ca60a8e9d659b276b9",
+  "scopes": [
+    {
+      "id": "caconsultant.jp:municipality",
+      "host": "caconsultant.jp",
+      "scope": "municipality",
+      "campaign": "water-delivery"
+    },
+    {
+      "id": "digi-tsuhan.jp:municipality",
+      "host": "digi-tsuhan.jp",
+      "scope": "municipality",
+      "campaign": "water-delivery"
+    },
+    {
+      "id": "econ-hgu.jp:municipality",
+      "host": "econ-hgu.jp",
+      "scope": "municipality",
+      "campaign": "water-delivery"
+    },
+    {
+      "id": "enviroscisymposium.org:municipality",
+      "host": "enviroscisymposium.org",
+      "scope": "municipality",
+      "campaign": "matchmaking"
+    },
+    {
+      "id": "fwadultsoccer.com:municipality",
+      "host": "fwadultsoccer.com",
+      "scope": "municipality",
+      "campaign": "car-appraisal"
+    },
+    {
+      "id": "infocentral.jp:municipality",
+      "host": "infocentral.jp",
+      "scope": "municipality",
+      "campaign": "water-delivery"
+    },
+    {
+      "id": "michi-roman.com:municipality",
+      "host": "michi-roman.com",
+      "scope": "municipality",
+      "campaign": "water-delivery"
+    },
+    {
+      "id": "myoshida.jp:municipality",
+      "host": "myoshida.jp",
+      "scope": "municipality",
+      "campaign": "water-delivery"
+    },
+    {
+      "id": "sbic.sub.jp:sitewide-promotional-assembly",
+      "host": "sbic.sub.jp",
+      "scope": "path_prefix",
+      "campaign": "repeated-promotional-assembly-across-directories",
+      "path": "/"
+    },
+    {
+      "id": "nissho-jyouhou.jp:affiliate-profiles",
+      "host": "nissho-jyouhou.jp",
+      "scope": "numbered_slug",
+      "campaign": "swapped-profile-affiliate-template",
+      "path": "/deaikei_yarimoku/sokuhame",
+      "digits": 5
+    },
+    {
+      "id": "akune.boy.jp:sitewide-promotional-assembly",
+      "host": "akune.boy.jp",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "repeated-promotional-assembly-across-directories"
+    },
+    {
+      "id": "afacontgroup.com:affiliate-wrapped-posts",
+      "host": "afacontgroup.com",
+      "scope": "numbered_slug",
+      "path": "/t",
+      "digits": 19,
+      "campaign": "affiliate-pitch-wrapped-around-scraped-social-posts"
+    },
+    {
+      "id": "nabe.oroti.net:cached-headline-stream",
+      "host": "nabe.oroti.net",
+      "scope": "path_prefix",
+      "path": "/cache_text",
+      "campaign": "automatically-assembled-headline-stream"
+    },
+    {
+      "id": "ironodata.info:comic-search-qa-collage",
+      "host": "ironodata.info",
+      "scope": "exact_query",
+      "path": "/comic/comic.php",
+      "campaign": "comic-search-wrapping-unrelated-yahoo-answers",
+      "query_key": "color"
+    },
+    {
+      "id": "panchira.b-sixx.com:synthetic-numbered-stories",
+      "host": "panchira.b-sixx.com",
+      "scope": "numbered_slug",
+      "path": "/",
+      "campaign": "machine-spliced-fiction-with-corrupted-clauses",
+      "digits": 4,
+      "suffix": ".html"
+    },
+    {
+      "id": "guragazo.warotamaker2.com:numeric-headline-feed-8",
+      "host": "guragazo.warotamaker2.com",
+      "scope": "numbered_slug",
+      "path": "/feed/",
+      "campaign": "automatically-assembled-forum-and-headline-feed",
+      "digits": 8
+    },
+    {
+      "id": "guragazo.warotamaker2.com:numeric-headline-feed-9",
+      "host": "guragazo.warotamaker2.com",
+      "scope": "numbered_slug",
+      "path": "/feed/",
+      "campaign": "automatically-assembled-forum-and-headline-feed",
+      "digits": 9
+    },
+    {
+      "id": "msc2011.org:numbered-rewritten-search-articles",
+      "host": "msc2011.org",
+      "scope": "numbered_slug",
+      "path": "/admin-",
+      "digits": 5,
+      "campaign": "spaced-keyword-heading-and-automatically-rewritten-clause-montage"
+    },
+    {
+      "id": "happyhealthyhorses.be:synthetic-retail-reviews",
+      "host": "happyhealthyhorses.be",
+      "scope": "path_prefix",
+      "path": "/pickup",
+      "campaign": "mixed-product-cards-with-unrelated-scraped-reviews"
+    },
+    {
+      "id": "guideme.jp:keyword-snippet-montage",
+      "host": "guideme.jp",
+      "scope": "path_prefix",
+      "path": "/pk",
+      "campaign": "automatically-mixed-and-unlabelled-news-snippets-by-keyword"
+    },
+    {
+      "id": "textlog.oroti.net:cached-headline-stream",
+      "host": "textlog.oroti.net",
+      "scope": "path_prefix",
+      "path": "/cache_text",
+      "campaign": "automatically-assembled-excerpts-with-unlabelled-headline-stream"
+    },
+    {
+      "id": "sheen.warotamaker.com:numeric-headline-feed-9",
+      "host": "sheen.warotamaker.com",
+      "scope": "numbered_slug",
+      "path": "/feed/",
+      "campaign": "automatically-assembled-forum-and-headline-feed",
+      "digits": 9
+    },
+    {
+      "id": "choichoi.warotamaker.com:numeric-headline-feed-9",
+      "host": "choichoi.warotamaker.com",
+      "scope": "numbered_slug",
+      "path": "/feed/",
+      "campaign": "automatically-assembled-forum-and-headline-feed",
+      "digits": 9
+    },
+    {
+      "id": "guideme.jp:keyword-lookup-snippet-montage",
+      "host": "guideme.jp",
+      "scope": "exact_query",
+      "path": "/kwd.php",
+      "query_key": "keyword",
+      "campaign": "unlabelled-clipped-search-result-montage"
+    },
+    {
+      "id": "mt-kyushu.net:regional-dating-keyword-injection",
+      "host": "mt-kyushu.net",
+      "scope": "numbered_slug",
+      "path": "/fukuoka/",
+      "digits": 4,
+      "campaign": "regional-dating-keywords-inserted-into-unrelated-text"
+    },
+    {
+      "id": "spkentei.jp:numbered-rewritten-search-articles",
+      "host": "spkentei.jp",
+      "scope": "numbered_slug",
+      "path": "/admin-",
+      "digits": 5,
+      "campaign": "scraped-and-paraphrased-search-query-articles"
+    },
+    {
+      "id": "nightwork-kyujin.sakura.ne.jp:numbered-recruitment-doorways",
+      "host": "nightwork-kyujin.sakura.ne.jp",
+      "scope": "numbered_slug",
+      "path": "/floorlady/",
+      "digits": 4,
+      "campaign": "recruitment-copy-with-repeated-search-slots-and-swapped-cities"
+    },
+    {
+      "id": "autopedia.jpn.org:automatic-encyclopedia",
+      "host": "autopedia.jpn.org",
+      "scope": "path_prefix",
+      "path": "/q",
+      "campaign": "automatic-encyclopedia-with-mismatched-excerpts"
+    },
+    {
+      "id": "nightwork-kyujin.sakura.ne.jp:numbered-bar-recruitment-doorways",
+      "host": "nightwork-kyujin.sakura.ne.jp",
+      "scope": "numbered_slug",
+      "path": "/girlsbar/",
+      "digits": 4,
+      "campaign": "recruitment-copy-with-repeated-search-slots-and-swapped-cities"
+    },
+    {
+      "id": "nightwork-kyujin.sakura.ne.jp:numbered-hostess-recruitment-doorways",
+      "host": "nightwork-kyujin.sakura.ne.jp",
+      "scope": "numbered_slug",
+      "path": "/hostess/",
+      "digits": 4,
+      "campaign": "recruitment-copy-with-repeated-search-slots-and-swapped-cities"
+    },
+    {
+      "id": "yerflb.info:padded-earnings-offers",
+      "host": "yerflb.info",
+      "scope": "earnings_slots",
+      "campaign": "repeated-earnings-pitches-with-unrelated-sentence-padding"
+    },
+    {
+      "id": "touch-droid.com:station-loan-template",
+      "host": "touch-droid.com",
+      "scope": "station_loan_money",
+      "campaign": "station-search-slots-in-repeated-loan-solicitation"
+    },
+    {
+      "id": "infofeeder.info:station-loan-template",
+      "host": "infofeeder.info",
+      "scope": "station_loan_yushi",
+      "campaign": "station-search-slots-in-repeated-loan-solicitation"
+    },
+    {
+      "id": "dendenden.lolipop.jp:sitewide-promotional-assembly",
+      "host": "dendenden.lolipop.jp",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "repeated-promotional-assembly-across-directories"
+    },
+    {
+      "id": "mac-hadis.com:generated-auction-lot-copy",
+      "host": "mac-hadis.com",
+      "scope": "auction_lot",
+      "campaign": "repeated-auction-promotions-and-buyback-footer"
+    },
+    {
+      "id": "voyalamoda.com:fragmented-post-montage",
+      "host": "voyalamoda.com",
+      "scope": "numbered_slug",
+      "path": "/t",
+      "digits": 19,
+      "campaign": "tweet-id-pages-assembled-from-detached-post-excerpts"
+    },
+    {
+      "id": "upost.info:encoded-tag-snippet-archives",
+      "host": "upost.info",
+      "scope": "encoded_tag_slug",
+      "campaign": "automatically-localized-and-combined-search-snippets"
+    },
+    {
+      "id": "d4ydactu.wordpress.com:dated-mahjong-snippets",
+      "host": "d4ydactu.wordpress.com",
+      "scope": "dated_mahjong_snippets",
+      "campaign": "dated-mahjong-landing-pages-with-unattributed-extracts"
+    },
+    {
+      "id": "hoken88jyosei.blog50.fc2.com:insurance-rewrites",
+      "host": "hoken88jyosei.blog50.fc2.com",
+      "scope": "numbered_slug",
+      "path": "/blog-entry-",
+      "digits": 3,
+      "suffix": ".html",
+      "campaign": "repeated-insurance-copy-with-malformed-keyword-insertions"
+    },
+    {
+      "id": "oshun-france.com:green-juice-doorway",
+      "host": "oshun-france.com",
+      "scope": "green_juice_doorway",
+      "campaign": "unrelated-diet-and-cosmetics-copy-under-substituted-product-keywords"
+    },
+    {
+      "id": "chiro1.hamamatu.org:sitewide-clinic-rewrites",
+      "host": "chiro1.hamamatu.org",
+      "scope": "path_prefix",
+      "campaign": "rewritten-clinical-copy-and-unrelated-headlines",
+      "path": "/"
+    },
+    {
+      "id": "fu-point.com:location-substituted-board-landing",
+      "host": "fu-point.com",
+      "scope": "regional_board_landing",
+      "campaign": "regional-dating-landing-with-identical-copy-and-replaced-place-fields"
+    },
+    {
+      "id": "musyuse.net:dti-automatically-localized-detail-pages",
+      "host": "musyuse.net",
+      "scope": "localized_dti_detail",
+      "campaign": "corrupted-machine-localized-copy-with-rotating-detached-comments-and-keywords"
+    },
+    {
+      "id": "musyuse.net:mgs-automatically-localized-gallery-pages",
+      "host": "musyuse.net",
+      "scope": "localized_mgs_detail",
+      "campaign": "corrupted-machine-localized-gallery-copy-with-detached-description-and-genre-slots"
+    },
+    {
+      "id": "kidrockrebelsoul.com:station-slotted-childcare-jobs",
+      "host": "kidrockrebelsoul.com",
+      "scope": "station_childcare_jobs",
+      "campaign": "preschool-recruiting-funnel-with-rotating-search-terms-and-station-metadata"
+    },
+    {
+      "id": "xn--3kqxf2a3034b.x0.com:night-work-job-slots",
+      "host": "xn--3kqxf2a3034b.x0.com",
+      "scope": "night_work_slots",
+      "campaign": "reused-night-work-recruitment-with-interchangeable-city-qualification-and-job-slots"
+    },
+    {
+      "id": "xn--eckvdwa6181a8r2c.jpn.org:live-chat-job-slots",
+      "host": "xn--eckvdwa6181a8r2c.jpn.org",
+      "scope": "live_chat_slots",
+      "campaign": "reused-night-work-recruitment-with-interchangeable-city-and-qualification-slots"
+    },
+    {
+      "id": "chomatome.warotamaker.com:nine-digit-headline-feed",
+      "host": "chomatome.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "rotating-standalone-headlines-with-repeated-unattributed-feed-tails"
+    },
+    {
+      "id": "mono.flier.jp:mixed-review-catalogue",
+      "host": "mono.flier.jp",
+      "scope": "mixed_review_catalogue",
+      "campaign": "catalogue-pages-built-from-unrelated-and-unlabelled-review-scraps"
+    },
+    {
+      "id": "xn--vusz2dl9el8og0sx4n.xyz:municipality-hair-loss-copy",
+      "host": "xn--vusz2dl9el8og0sx4n.xyz",
+      "scope": "municipality",
+      "campaign": "repeated-hair-loss-promotion-with-substituted-municipalities"
+    },
+    {
+      "id": "catbjt.tokyo:epoophoron-fabricated-listings",
+      "host": "catbjt.tokyo",
+      "scope": "retail_epoophoron_listing",
+      "campaign": "product-price-cards-over-corrupted-copied-fiction-or-unrelated-fashion-prose"
+    },
+    {
+      "id": "gagastore.at-ninja.jp:spun-buyback-html",
+      "host": "gagastore.at-ninja.jp",
+      "scope": "spun_buyback_html",
+      "campaign": "mechanically-rewritten-buyback-copy-with-interchangeable-product-queries"
+    },
+    {
+      "id": "korotte.hatenadiary.jp:dated-renovation-montage",
+      "host": "korotte.hatenadiary.jp",
+      "scope": "dated_renovation_montage",
+      "campaign": "renovation-keyword-posts-stitched-from-incompatible-service-catalogues"
+    },
+    {
+      "id": "qlupuhoxeaemegapist.hatenablog.jp:dated-affiliate-montage",
+      "host": "qlupuhoxeaemegapist.hatenablog.jp",
+      "scope": "dated_affiliate_montage",
+      "campaign": "affiliate-testimonial-slots-combined-with-unrelated-gaming-and-lunch-diary-filler"
+    },
+    {
+      "id": "syndicatedclothing.com:stock-endorsement-topics",
+      "host": "syndicatedclothing.com",
+      "scope": "stock_endorsement_topics",
+      "campaign": "rotating-generic-testimonials-with-swapped-product-and-review-query-slots"
+    },
+    {
+      "id": "bzyjww92922c0m.com:multilingual-keyword-html",
+      "host": "bzyjww92922c0m.com",
+      "scope": "multilingual_keyword_html",
+      "campaign": "numbered-pages-assembled-from-unrelated-multilingual-search-terms"
+    },
+    {
+      "id": "6scotch.info:prefixed-reply-montage",
+      "host": "6scotch.info",
+      "scope": "numbered_slug",
+      "path": "/t",
+      "digits": 19,
+      "campaign": "topic-swapped-scraped-social-replies-under-unrelated-training-promotion"
+    },
+    {
+      "id": "marue-salon.jp:casino-snippet-date",
+      "host": "marue-salon.jp",
+      "scope": "casino_snippet_date",
+      "campaign": "same-day-casino-landing-pages-padded-with-unrelated-scraped-excerpts"
+    },
+    {
+      "id": "kamtiel.com:exam-braindumps",
+      "host": "kamtiel.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "braindumps",
+      "campaign": "certification-offer-with-reused-test-sales-copy"
+    },
+    {
+      "id": "kamtiel.com:exam-feed-pages",
+      "host": "kamtiel.com",
+      "scope": "exam_query",
+      "path": "/feed",
+      "query_key": "pages",
+      "campaign": "certification-offer-with-reused-test-sales-copy"
+    },
+    {
+      "id": "trattnergroup.at:exam-category",
+      "host": "trattnergroup.at",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "category",
+      "campaign": "certification-offer-with-rotating-promotion-and-question-slots"
+    },
+    {
+      "id": "trattnergroup.at:exam-guides",
+      "host": "trattnergroup.at",
+      "scope": "exam_query",
+      "path": "/content",
+      "query_key": "guide",
+      "campaign": "certification-offer-with-rotating-promotion-and-question-slots"
+    },
+    {
+      "id": "ijhssrnet.com:exam-sale",
+      "host": "ijhssrnet.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "sale",
+      "campaign": "certification-offer-with-interchangeable-vendor-and-test-slots"
+    },
+    {
+      "id": "ijhssrnet.com:exam-rss-categories",
+      "host": "ijhssrnet.com",
+      "scope": "exam_query",
+      "path": "/rss",
+      "query_key": "category",
+      "campaign": "certification-offer-with-interchangeable-vendor-and-test-slots"
+    },
+    {
+      "id": "wechat-hk.com:exam-demo",
+      "host": "wechat-hk.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "demo",
+      "campaign": "automatically-reused-sales-copy-with-inserted-certification-titles"
+    },
+    {
+      "id": "mydeals.jp:merchant-coupon-slugs",
+      "host": "mydeals.jp",
+      "scope": "merchant_coupon_slugs",
+      "campaign": "merchant-name-and-price-slots-in-broken-coupon-and-checkout-copy"
+    },
+    {
+      "id": "biennalebenin.org:qa-collage-2018-09-30",
+      "host": "biennalebenin.org",
+      "scope": "numbered_slug",
+      "path": "/2018/09/30/entry",
+      "digits": 4,
+      "campaign": "repeated-clipped-question-headings-and-unrelated-answer-packets"
+    },
+    {
+      "id": "biennalebenin.org:qa-collage-2018-10-02",
+      "host": "biennalebenin.org",
+      "scope": "numbered_slug",
+      "path": "/2018/10/02/entry",
+      "digits": 4,
+      "campaign": "repeated-clipped-question-headings-and-unrelated-answer-packets"
+    },
+    {
+      "id": "dearyoti.net:qa-collage-2018-09-05",
+      "host": "dearyoti.net",
+      "scope": "numbered_slug",
+      "path": "/wp/2018/09/05/entry",
+      "digits": 4,
+      "campaign": "repeated-clipped-question-headings-and-unrelated-answer-packets"
+    },
+    {
+      "id": "peep78.hateblo.jp:scheduled-2017-snippet-collage",
+      "host": "peep78.hateblo.jp",
+      "scope": "scheduled_2017_collage",
+      "campaign": "unlabelled-snippet-collages-in-the-same-repeated-publication-minute"
+    },
+    {
+      "id": "gorilla.warotamaker.com:nine-digit-mixed-headline-feed",
+      "host": "gorilla.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "feeds-assembling-incompatible-video-game-qa-gossip-and-humor-headlines"
+    },
+    {
+      "id": "nchl.wwmp.org.za:cloned-outlet-items",
+      "host": "nchl.wwmp.org.za",
+      "scope": "cloned_outlet_item",
+      "campaign": "fabricated-outlet-routes-with-scraped-and-spliced-product-copy"
+    },
+    {
+      "id": "eastbright.lighting:fashion-listings-with-beverage-copy",
+      "host": "eastbright.lighting",
+      "scope": "fashion_listing_codes",
+      "campaign": "fashion-resale-listings-with-repeated-unrelated-beverage-inventory"
+    },
+    {
+      "id": "creativewriting.jscc.edu:coded-retail-reviews",
+      "host": "creativewriting.jscc.edu",
+      "scope": "coded_retail_query",
+      "campaign": "third-party-retail-reviews-on-fabricated-education-site-routes"
+    },
+    {
+      "id": "cobwebs.warotamaker2.com:nine-digit-mixed-headline-feed",
+      "host": "cobwebs.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feeds-with-unrelated-video-topic-finance-job-and-forum-fragments"
+    },
+    {
+      "id": "takara.ac:misassigned-machine-translated-questions",
+      "host": "takara.ac",
+      "scope": "translated_question_articles",
+      "campaign": "unrelated-translated-questions-and-categories-attached-to-imported-answers"
+    },
+    {
+      "id": "petsitter-ci.com:dictionary-retail-item-copies",
+      "host": "petsitter-ci.com",
+      "scope": "dictionary_retail_items",
+      "campaign": "copied-fashion-listings-and-tool-inventory-on-six-digit-dictionary-routes"
+    },
+    {
+      "id": "pilot-service.ru:mirrored-image-posts",
+      "host": "pilot-service.ru",
+      "scope": "mirrored_image_post",
+      "campaign": "copied-image-posts-with-identical-empty-content-and-sponsor-template"
+    },
+    {
+      "id": "socialnetworkgame.warotagamer.com:nine-digit-forum-feed",
+      "host": "socialnetworkgame.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "automatically-assembled-forum-headlines-without-an-original-article-across-game-categories"
+    },
+    {
+      "id": "warotamaker.com:verified-9-digit-headline-feed",
+      "host": "warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "2chmatome.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "2chmatome.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "2chmatome.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "2chmatome.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "gossip.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "gossip.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "kirakira.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "kirakira.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "panda.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "panda.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "panda.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "panda.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "negi.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "negi.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "muripo.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "muripo.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "game2chantena.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "game2chantena.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "nakamura.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "nakamura.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "idol.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "idol.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pokemongomatome.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pokemongomatome.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "jimmy555.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "jimmy555.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "sosyage.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "sosyage.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "game.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "game.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "gamematome.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "gamematome.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "jazong.com:nineteen-digit-tweet-search-pages",
+      "host": "jazong.com",
+      "scope": "nineteen_digit_tweet_scrape",
+      "campaign": "automatic-tweet-keyword-search-without-original-article"
+    },
+    {
+      "id": "1.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "1.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "2ch.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "2ch.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "2ch.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "2ch.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "2chentertainment.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "2chentertainment.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "2chmatomespecialantenna.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "2chmatomespecialantenna.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "akb.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "akb.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "aniani.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "aniani.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "animaga.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "animaga.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "animaga.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "animaga.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "animall.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "animall.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "anime.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "anime.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "animematome.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "animematome.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "animes.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "animes.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "anisma.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "anisma.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "anothereden.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "anothereden.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "apparel.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "apparel.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "appgame.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "appgame.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "arkanoid.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "arkanoid.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "bangdream.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "bangdream.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "bangdream2ch.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "bangdream2ch.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "battleoperation2.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "battleoperation2.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "blog2ch.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "blog2ch.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "blog2ch.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "blog2ch.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "browndust.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "browndust.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "coloplantenna.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "coloplantenna.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "comicantena.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "comicantena.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "dabimas.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "dabimas.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "ddon.warotagamer.com:verified-8-digit-headline-feed",
+      "host": "ddon.warotagamer.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "deadbydaylight.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "deadbydaylight.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "dqh.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "dqh.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "stu48.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "stu48.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "xfgo.s1001.xrea.com:archive-antenna-scrapes",
+      "host": "xfgo.s1001.xrea.com",
+      "scope": "path_prefix",
+      "campaign": "game-headline-landings-without-original-articles",
+      "path": "/archives"
+    },
+    {
+      "id": "dqr.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "dqr.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "dragonquestsp.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "dragonquestsp.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "draque11.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "draque11.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "dream7.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "dream7.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "dream7.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "dream7.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "duel.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "duel.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "everyone.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "everyone.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "fashion.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "fashion.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "fate.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "fate.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "fatego.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "fatego.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "fategrandorder.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "fategrandorder.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "fatemania.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "fatemania.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "feappsp.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "feappsp.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "feh.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "feh.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "fehero.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "fehero.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "feheroes.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "feheroes.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "ff14.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "ff14.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "ff14matome.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "ff14matome.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "ff15.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "ff15.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "ffbe.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "ffbe.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "food.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "food.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "foxsign.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "foxsign.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "game.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "game.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "gamealpha.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "gamealpha.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "gamekabu.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "gamekabu.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "gameotaku.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "gameotaku.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "garupa.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "garupa.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "gehamatome.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "gehamatome.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "gogo.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "gogo.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "granbluefantasy.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "granbluefantasy.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "granbluefantasy.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "granbluefantasy.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "gundam.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "gundam.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "hachinai.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "hachinai.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "idolmatome.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "idolmatome.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "idolmatome.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "idolmatome.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "jojoss.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "jojoss.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "kantena0100.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "kantena0100.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "keyaki.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "keyaki.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "keyakise.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "keyakise.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "khux.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "khux.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "kimiaki.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "kimiaki.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "kof98matome.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "kof98matome.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "kof98ol.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "kof98ol.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "lineage2.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "lineage2.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "magirecomatome.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "magirecomatome.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "maresuke.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "maresuke.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "matomeno.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "matomeno.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "matomex.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "matomex.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "mh.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "mh.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "mhxxantena.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "mhxxantena.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "minpaku.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "minpaku.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "monsutojyouhou.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "monsutojyouhou.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "newgame.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "newgame.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "nun.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "nun.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "nyankodaisensou.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "nyankodaisensou.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "overwatch.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "overwatch.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pawasaka.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pawasaka.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pawasakamatome.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pawasakamatome.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pocketcamp.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pocketcamp.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pokegopokego.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pokegopokego.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pokemon5.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pokemon5.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pokemongo.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pokemongo.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pokemongogamer.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pokemongogamer.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pokemongoz.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pokemongoz.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pokemonsmantena.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pokemonsmantena.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "priconneredive.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "priconneredive.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "ps4.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "ps4.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "ps4sougou.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "ps4sougou.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "pwprantna.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "pwprantna.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "real.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "real.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "ryouta0155.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "ryouta0155.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "ryouta0155.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "ryouta0155.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "sangokushitaisen.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "sangokushitaisen.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "sdiypabx.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "sdiypabx.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "shadow.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "shadow.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "skh2ch.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "skh2ch.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "slot.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "slot.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "slstage.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "slstage.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "smartapp.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "smartapp.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "soa.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "soa.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "soamatome.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "soamatome.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "spgame.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "spgame.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "splatoon2.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "splatoon2.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "spo.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "spo.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "srwx.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "srwx.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "subculture.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "subculture.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "sumaga2.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "sumaga2.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "super.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "super.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "theaterdays.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "theaterdays.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "torotama.warotamaker2.com:verified-8-digit-headline-feed",
+      "host": "torotama.warotamaker2.com",
+      "scope": "eight_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "tradecardgame.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "tradecardgame.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "yugiou0000.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "yugiou0000.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "yutori.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "yutori.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "zeldabow.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "zeldabow.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "1154lill.com:six-digit-search-faq-collage",
+      "host": "1154lill.com",
+      "scope": "six_digit_compiled_faq",
+      "campaign": "cache-control-artifacts-in-scraped-search-question-assembly"
+    },
+    {
+      "id": "bnter.com:6-digit-search-faq-collage",
+      "host": "bnter.com",
+      "scope": "six_digit_compiled_faq",
+      "campaign": "cache-control-artifacts-in-cross-host-search-question-assembly"
+    },
+    {
+      "id": "brickmovie.net:6-digit-search-faq-collage",
+      "host": "brickmovie.net",
+      "scope": "six_digit_compiled_faq",
+      "campaign": "cache-control-artifacts-in-cross-host-search-question-assembly"
+    },
+    {
+      "id": "scoopmovie.net:5-digit-search-faq-collage",
+      "host": "scoopmovie.net",
+      "scope": "five_digit_root_article",
+      "campaign": "cache-control-artifacts-in-cross-host-search-question-assembly"
+    },
+    {
+      "id": "theflyingeyes.com:5-digit-search-faq-collage",
+      "host": "theflyingeyes.com",
+      "scope": "five_digit_root_article",
+      "campaign": "cache-control-artifacts-in-cross-host-search-question-assembly"
+    },
+    {
+      "id": "keycar-syuriya.jp:municipality-locksmith-slot-pages",
+      "host": "keycar-syuriya.jp",
+      "scope": "regional_vehicle_locksmith",
+      "campaign": "reused-vehicle-locksmith-landing-with-locality-substitution"
+    },
+    {
+      "id": "silencersonline.com:wander-retail-insertion-query",
+      "host": "silencersonline.com",
+      "scope": "injected_retail_query",
+      "campaign": "injected-unrelated-product-catalogues-inside-prose"
+    },
+    {
+      "id": "victory.tvu.edu.vn:wander-retail-insertion-query",
+      "host": "victory.tvu.edu.vn",
+      "scope": "dashed_retail_query",
+      "campaign": "injected-unrelated-catalogue-items-inside-copied-jazz-article"
+    },
+    {
+      "id": "clubpyme.info:mirrored-automotive-article-presentations",
+      "host": "clubpyme.info",
+      "scope": "copied_automotive_article",
+      "campaign": "same-magazine-article-id-and-copied-prose-in-three-views"
+    },
+    {
+      "id": "exotica-x.com:empty-video-catalogue-montage",
+      "host": "exotica-x.com",
+      "scope": "six_digit_video_catalogue_view",
+      "campaign": "empty-publish-fields-and-automatically-assembled-catalogue-text"
+    },
+    {
+      "id": "tvdominho.com:dated-news-spliced-with-loan-campaign",
+      "host": "tvdominho.com",
+      "scope": "dated_2020_2021_news_splice",
+      "campaign": "syndicated-news-wrapped-in-automatic-loan-keyword-padding"
+    },
+    {
+      "id": "pro-phyl.com:nineteen-digit-tweet-search-pages",
+      "host": "pro-phyl.com",
+      "scope": "nineteen_digit_tweet_scrape",
+      "campaign": "automatic-tweet-keyword-search-without-original-article"
+    },
+    {
+      "id": "overseanews.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "overseanews.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "automatically-assembled-headlines-on-multiple-forum-topics"
+    },
+    {
+      "id": "autumn0301.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "autumn0301.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "automatically-assembled-headlines-on-multiple-forum-topics"
+    },
+    {
+      "id": "millionlive.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "millionlive.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "gekioko.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "gekioko.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "kgw.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "kgw.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "wiiu3dsgame.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "wiiu3dsgame.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "hoshidora0000.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "hoshidora0000.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "sumaga.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "sumaga.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "1.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "1.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "akb48.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "akb48.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "daretoku.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "daretoku.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "spgameblog.warotagamer.com:verified-9-digit-headline-feed",
+      "host": "spgameblog.warotagamer.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "matome100.warotamaker2.com:verified-9-digit-headline-feed",
+      "host": "matome100.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "kupaa.warotamaker.com:verified-9-digit-headline-feed",
+      "host": "kupaa.warotamaker.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "assembled-headline-feed-without-an-original-article"
+    },
+    {
+      "id": "kingoffighters12.com:six-digit-faq-assembly",
+      "host": "kingoffighters12.com",
+      "scope": "six_digit_compiled_faq",
+      "campaign": "assembled-search-answer-snippets-in-six-digit-faq-route"
+    },
+    {
+      "id": "knowledge-leaf.2-d.jp:rehosted-keyword-qa-results",
+      "host": "knowledge-leaf.2-d.jp",
+      "scope": "exact_query",
+      "path": "/qa.php",
+      "query_key": "k",
+      "campaign": "mechanically-assembled-qa-search-result-copies"
+    },
+    {
+      "id": "xn--68j8h1d4a5520d.jpn.org:night-work-job-slots",
+      "host": "xn--68j8h1d4a5520d.jpn.org",
+      "scope": "night_job_ad_slots",
+      "campaign": "locality-and-qualification-slotted-night-work-advertising"
+    },
+    {
+      "id": "moprcy.com:fiction-in-numbered-catalogue",
+      "host": "moprcy.com",
+      "scope": "scraped_catalogue_fiction",
+      "campaign": "product-metadata-and-supplement-promotions-in-scraped-serialized-fiction"
+    },
+    {
+      "id": "herala.tw:desertful-corrupted-catalogue",
+      "host": "herala.tw",
+      "scope": "desertful_catalogue",
+      "campaign": "fiction-fashion-and-news-fragments-with-commercial-terms-inserted-mid-word"
+    },
+    {
+      "host": "takumi-seikotsuin.xyz",
+      "scope": "three_digit_root_affiliate",
+      "id": "takumi-seikotsuin.xyz:three-digit-fabricated-investment-reviews"
+    },
+    {
+      "host": "stg-origin.aegpresents.com",
+      "scope": "clipped_snippet_php_route",
+      "id": "stg-origin.aegpresents.com:letter-and-number-clipped-snippets"
+    },
+    {
+      "host": "pedrocontador.cl",
+      "scope": "exam_query",
+      "path": "/blogs",
+      "query_key": "docs",
+      "id": "pedrocontador.cl:verified-exam-campaign-docs"
+    },
+    {
+      "host": "championsgroup.com",
+      "scope": "reverse_exam_query",
+      "path": "/",
+      "query_key": "exam",
+      "id": "championsgroup.com:verified-exam-campaign-exam"
+    },
+    {
+      "host": "lb-firebird-80-pub-com-recordtv-549824153.us-east-1.elb.amazonaws.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "feedback",
+      "id": "lb-firebird-80-pub-com-recordtv-549824153.us-east-1.elb.amazonaws.com:verified-exam-campaign-feedback"
+    },
+    {
+      "host": "championsgroup.com.php74-42.lan3-1.websitetestlink.com",
+      "scope": "reverse_exam_query",
+      "path": "/",
+      "query_key": "exam",
+      "id": "championsgroup.com.php74-42.lan3-1.websitetestlink.com:verified-exam-campaign-exam"
+    },
+    {
+      "host": "mecatronica.unitru.edu.pe",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "faq",
+      "id": "mecatronica.unitru.edu.pe:verified-exam-campaign-faq"
+    },
+    {
+      "host": "klantcrm.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "blog",
+      "id": "klantcrm.com:verified-exam-campaign-blog"
+    },
+    {
+      "host": "ec2-52-86-207-110.compute-1.amazonaws.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "feedback",
+      "id": "ec2-52-86-207-110.compute-1.amazonaws.com:verified-exam-campaign-feedback"
+    },
+    {
+      "host": "muntha.org",
+      "scope": "exam_query",
+      "path": "/cgi-bin",
+      "query_key": "dumps",
+      "id": "muntha.org:verified-exam-campaign-dumps"
+    },
+    {
+      "host": "45-79-102-79.ip.linodeusercontent.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "example",
+      "id": "45-79-102-79.ip.linodeusercontent.com:verified-exam-campaign-example"
+    },
+    {
+      "host": "ijessnet.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "examples",
+      "id": "ijessnet.com:verified-exam-campaign-examples"
+    },
+    {
+      "host": "lightningcopy.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "test",
+      "id": "lightningcopy.com:verified-exam-campaign-test"
+    },
+    {
+      "host": "sharovnya45.ru",
+      "scope": "exam_query",
+      "path": "/feed",
+      "query_key": "pages",
+      "id": "sharovnya45.ru:verified-exam-campaign-pages"
+    },
+    {
+      "host": "web-design-hk.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "feedback",
+      "id": "web-design-hk.com:verified-exam-campaign-feedback"
+    },
+    {
+      "host": "zoapcon.com",
+      "scope": "exam_query",
+      "path": "/",
+      "query_key": "braindumps",
+      "id": "zoapcon.com:verified-exam-campaign-braindumps"
+    },
+    {
+      "host": "wertdeenlaces.net",
+      "scope": "nineteen_digit_tweet_scrape",
+      "id": "wertdeenlaces.net:nineteen-digit-tweet-search-pages"
+    },
+    {
+      "id": "documents.openideo.com:four-digit-clipped-snippet-html-route",
+      "host": "documents.openideo.com",
+      "scope": "four_digit_clipped_snippet_html_route"
+    },
+    {
+      "id": "extra.ostsee-zeitung.de:four-digit-clipped-snippet-html-route",
+      "host": "extra.ostsee-zeitung.de",
+      "scope": "four_digit_clipped_snippet_html_route"
+    },
+    {
+      "id": "govotebot.rga.com:four-digit-clipped-snippet-html-route",
+      "host": "govotebot.rga.com",
+      "scope": "four_digit_clipped_snippet_html_route"
+    },
+    {
+      "id": "bernina125.dja.com:four-digit-clipped-snippet-html-route",
+      "host": "bernina125.dja.com",
+      "scope": "four_digit_clipped_snippet_html_route"
+    },
+    {
+      "id": "outage.smeco.coop:four-digit-clipped-snippet-html-route",
+      "host": "outage.smeco.coop",
+      "scope": "four_digit_clipped_snippet_html_route"
+    },
+    {
+      "id": "beta.dashmote.com:four-digit-clipped-snippet-html-route",
+      "host": "beta.dashmote.com",
+      "scope": "four_digit_clipped_snippet_html_route"
+    },
+    {
+      "id": "dialogone.jp:four-digit-clipped-snippet-html-route",
+      "host": "dialogone.jp",
+      "scope": "four_digit_clipped_snippet_html_route"
+    },
+    {
+      "id": "images.dujour.com:four-digit-clipped-snippet-html-route",
+      "host": "images.dujour.com",
+      "scope": "four_digit_clipped_snippet_html_route"
+    },
+    {
+      "id": "marshillmusic.merchline.com:four-digit-clipped-snippet-html-route",
+      "host": "marshillmusic.merchline.com",
+      "scope": "four_digit_clipped_snippet_html_route"
+    },
+    {
+      "id": "saudereprodutiva.dgs.pt:clipped-snippet-php-route",
+      "host": "saudereprodutiva.dgs.pt",
+      "scope": "clipped_snippet_php_route"
+    },
+    {
+      "id": "saudereprodutiva.dgs.pt:three-digit-clipped-snippet-php-route",
+      "host": "saudereprodutiva.dgs.pt",
+      "scope": "three_digit_clipped_snippet_php_route"
+    },
+    {
+      "id": "goldwaterscholars.scholarsapply.org:clipped-snippet-php-route",
+      "host": "goldwaterscholars.scholarsapply.org",
+      "scope": "clipped_snippet_php_route"
+    },
+    {
+      "id": "rating2014.gd.ru:clipped-snippet-php-route",
+      "host": "rating2014.gd.ru",
+      "scope": "clipped_snippet_php_route"
+    },
+    {
+      "id": "rating2014.gd.ru:three-digit-clipped-snippet-php-route",
+      "host": "rating2014.gd.ru",
+      "scope": "three_digit_clipped_snippet_php_route"
+    },
+    {
+      "id": "response.co.in:lancegay-six-digit-product-reviews",
+      "host": "response.co.in",
+      "scope": "numbered_slug",
+      "digits": 6,
+      "campaign": "clipped-product-review-records",
+      "path": "/lancegay/"
+    },
+    {
+      "id": "new.warotamaker2.com:verified-nine-digit-assembled-headlines",
+      "host": "new.warotamaker2.com",
+      "scope": "nine_digit_headline_feed",
+      "campaign": "mixed-forum-technology-and-game-headlines"
+    },
+    {
+      "id": "xedcui.wp.xdomain.jp:four-digit-affiliate-and-diary-splices",
+      "host": "xedcui.wp.xdomain.jp",
+      "scope": "numbered_slug",
+      "path": "/",
+      "digits": 4,
+      "suffix": ".html",
+      "campaign": "affiliate-pitches-with-meal-diary-suffixes"
+    },
+    {
+      "id": "aesarch.com:verified-prefixed-social-result-splices",
+      "host": "aesarch.com",
+      "scope": "nineteen_digit_tweet_scrape",
+      "campaign": "keyword-selected-social-post-fragments"
+    },
+    {
+      "id": "ja.qfojo.net:four-digit-localized-article-scrapes",
+      "host": "ja.qfojo.net",
+      "scope": "four_digit_localized_article_scrape",
+      "campaign": "automatically-republished-localized-articles-in-shared-search-template"
+    },
+    {
+      "id": "ja.sevanco.net:four-digit-localized-article-scrapes",
+      "host": "ja.sevanco.net",
+      "scope": "four_digit_localized_article_scrape",
+      "campaign": "automatically-republished-localized-articles-in-shared-search-template"
+    },
+    {
+      "id": "ja.hillarykids.com:four-digit-localized-article-scrapes",
+      "host": "ja.hillarykids.com",
+      "scope": "four_digit_localized_article_scrape",
+      "campaign": "automatically-republished-localized-articles-in-shared-search-template"
+    },
+    {
+      "id": "orioleadventures.com:affiliate-wrapped-social-posts",
+      "host": "orioleadventures.com",
+      "scope": "nineteen_digit_tweet_scrape",
+      "campaign": "affiliate-wrapped-social-posts"
+    },
+    {
+      "id": "menmedsonline.com:canned-off-topic-question-answer-archives",
+      "host": "menmedsonline.com",
+      "scope": "dated_canned_question_diary",
+      "campaign": "canned-off-topic-question-answer-archives"
+    },
+    {
+      "id": "keywords.jp:coded-merchant-snippet-pages",
+      "host": "keywords.jp",
+      "scope": "coded_merchant_snippet_pages",
+      "campaign": "assembled-retail-snippets-across-unrelated-categories"
+    },
+    {
+      "id": "greenpoliceconfused.com:assembled-video-teaser-archives",
+      "host": "greenpoliceconfused.com",
+      "scope": "six_digit_media_teaser_archive",
+      "campaign": "numbered-media-archive-pages-with-assembled-headlines-and-no-main-entry"
+    },
+    {
+      "id": "t7wg7ydfsg.hatenablog.com:timed-stock-housing-diary",
+      "host": "t7wg7ydfsg.hatenablog.com",
+      "scope": "dated_stock_housing_diary",
+      "campaign": "reused-diary-paragraphs-and-housing-promotions-in-dated-slots"
+    },
+    {
+      "id": "flaregun.io:dictionary-retail-query",
+      "host": "flaregun.io",
+      "scope": "dictionary_retail_query",
+      "campaign": "copied-product-listings-on-generated-dictionary-query-paths"
+    },
+    {
+      "id": "cafe-studio.jp:generated-resale-post",
+      "host": "cafe-studio.jp",
+      "scope": "generated_resale_post",
+      "campaign": "copied-marketplace-listings-on-generated-post-routes"
+    },
+    {
+      "id": "franquia.inspirar.com.br:copied-retail-namespaces",
+      "host": "franquia.inspirar.com.br",
+      "scope": "foreign_host_retail_namespace",
+      "campaign": "copied-retail-products-on-unrelated-education-host"
+    },
+    {
+      "id": "haipilates.com:numbered-course-reviews",
+      "host": "haipilates.com",
+      "scope": "numbered_affiliate_course_reviews",
+      "campaign": "recombined-endorsements-with-interchangeable-course-claims"
+    },
+    {
+      "id": "fsjnk.sitemix.jp:dated-funeral-word-salad",
+      "host": "fsjnk.sitemix.jp",
+      "scope": "dated_funeral_word_salad",
+      "campaign": "merged-funeral-lexicon-and-canned-clauses"
+    },
+    {
+      "id": "musyuse.net:duga24-localized-gallery",
+      "host": "musyuse.net",
+      "scope": "localized_duga24_gallery",
+      "campaign": "broken-literal-localization-in-duga24-gallery-copies"
+    },
+    {
+      "id": "ochamaru.net:generated-name-fortunes",
+      "host": "ochamaru.net",
+      "scope": "path_prefix",
+      "path": "/event01",
+      "campaign": "generated-name-fortunes-with-reused-snippets"
+    },
+    {
+      "id": "keyman.or.jp:assembled-keyword-pages",
+      "host": "keyman.or.jp",
+      "scope": "path_prefix",
+      "campaign": "unrelated-search-snippets-under-generated-keyword-pages",
+      "path": "/kw"
+    },
+    {
+      "id": "workfreelife.net:attachment-headline-collages",
+      "host": "workfreelife.net",
+      "scope": "archive_attachment_slug",
+      "campaign": "attachment-pages-filled-with-unrelated-headline-excerpts"
+    },
+    {
+      "id": "jrtours.co.jp:generated-travel-keyword-landings",
+      "host": "jrtours.co.jp",
+      "scope": "path_prefix",
+      "path": "/keyword",
+      "campaign": "search-keyword-dumps-and-stock-travel-copy"
+    },
+    {
+      "id": "e-himiko.net:generated-name-fortunes",
+      "host": "e-himiko.net",
+      "scope": "path_prefix",
+      "path": "/event01",
+      "campaign": "generated-name-fortunes-with-reused-snippets"
+    },
+    {
+      "id": "e-miko.net:generated-name-fortunes",
+      "host": "e-miko.net",
+      "scope": "path_prefix",
+      "path": "/event01",
+      "campaign": "generated-name-fortunes-with-reused-snippets"
+    },
+    {
+      "id": "hiroshi39jp.php.xdomain.jp:manufactured-video-threads",
+      "host": "hiroshi39jp.php.xdomain.jp",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "automatically-assembled-video-copy-and-stock-replies"
+    },
+    {
+      "id": "tomo5377.starfree.jp:manufactured-video-threads",
+      "host": "tomo5377.starfree.jp",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "automatically-assembled-video-copy-and-stock-replies"
+    },
+    {
+      "id": "alnico6v6.ohuda.com:generated-keyword-word-salad",
+      "host": "alnico6v6.ohuda.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "zemibimetsuseme.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "zemibimetsuseme.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "mapugoyo.hatenadiary.jp:affiliate-ranking-review-montages",
+      "host": "mapugoyo.hatenadiary.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "e-uranai.net:generated-name-fortunes",
+      "host": "e-uranai.net",
+      "scope": "path_prefix",
+      "path": "/uranai/event03",
+      "campaign": "generated-name-fortunes"
+    },
+    {
+      "id": "konio.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "konio.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "eauzuroechiba.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "eauzuroechiba.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "boaorumau.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "boaorumau.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "eeeppp.tubakurame.com:generated-keyword-word-salad",
+      "host": "eeeppp.tubakurame.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "girlish.shironuri.com:generated-keyword-word-salad",
+      "host": "girlish.shironuri.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "ryuboshi0770.sensyuuraku.com:generated-keyword-word-salad",
+      "host": "ryuboshi0770.sensyuuraku.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "izuaguzo.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "izuaguzo.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "haznemuzo.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "haznemuzo.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "regubi.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "regubi.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "1433th.moraimon.com:generated-keyword-word-salad",
+      "host": "1433th.moraimon.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "uieyage.hatenadiary.jp:affiliate-ranking-review-montages",
+      "host": "uieyage.hatenadiary.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "ibpupepo.hatenadiary.jp:affiliate-ranking-review-montages",
+      "host": "ibpupepo.hatenadiary.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "azembaohu.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "azembaohu.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "cos.moraimon.com:generated-keyword-word-salad",
+      "host": "cos.moraimon.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "sky3.shironuri.com:generated-keyword-word-salad",
+      "host": "sky3.shironuri.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "garakutaaikyou.kakurezato.com:generated-keyword-word-salad",
+      "host": "garakutaaikyou.kakurezato.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "runpanezukashi.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "runpanezukashi.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "ubimagajihome.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "ubimagajihome.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "saozaakiji.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "saozaakiji.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "meruhemibe.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "meruhemibe.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "awnae.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "awnae.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "konowapo.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "konowapo.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "noppugage.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "noppugage.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "nujikiyara.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "nujikiyara.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "szorinatepo.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "szorinatepo.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "ugdooketsu.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "ugdooketsu.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "amodedami.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "amodedami.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "niguguhibegobogu.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "niguguhibegobogu.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "bigan.the-ninja.jp:generated-keyword-word-salad",
+      "host": "bigan.the-ninja.jp",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "dogopa.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "dogopa.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "ahazeo.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "ahazeo.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "yaoidezu.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "yaoidezu.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "shimizuya.ho-zuki.com:generated-keyword-word-salad",
+      "host": "shimizuya.ho-zuki.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "osusume.shin-gen.jp:generated-keyword-word-salad",
+      "host": "osusume.shin-gen.jp",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "pafukonin.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "pafukonin.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "ikahago.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "ikahago.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "nibbo.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "nibbo.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "eradaemo.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "eradaemo.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "hachiso.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "hachiso.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "riafaze.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "riafaze.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "muonoma.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "muonoma.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "sweetpotato15.moraimon.com:generated-keyword-word-salad",
+      "host": "sweetpotato15.moraimon.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "iwasborn.shiteyattari.com:generated-keyword-word-salad",
+      "host": "iwasborn.shiteyattari.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "unozfgune.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "unozfgune.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "ykoapo.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "ykoapo.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "tekekeko.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "tekekeko.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "suokermizahepe.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "suokermizahepe.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "kainushihare.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "kainushihare.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "aenell282.hanabie.com:generated-keyword-word-salad",
+      "host": "aenell282.hanabie.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "sezesugu.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "sezesugu.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "ekohina.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "ekohina.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "pgw.tsunokakushi.com:generated-keyword-word-salad",
+      "host": "pgw.tsunokakushi.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "enepohane.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "enepohane.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "2tier.kanpaku.jp:generated-keyword-word-salad",
+      "host": "2tier.kanpaku.jp",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "hhidwgogi.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "hhidwgogi.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "adaijipede.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "adaijipede.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "avtechno.ukime.org:generated-keyword-word-salad",
+      "host": "avtechno.ukime.org",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "tsubakepasa.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "tsubakepasa.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "rogodaopitabu.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "rogodaopitabu.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "uzaretawa.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "uzaretawa.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "itsuesebi.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "itsuesebi.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "kywoshie.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "kywoshie.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "ruhikobozu.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "ruhikobozu.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "nibesupe.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "nibesupe.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "dagahechizu.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "dagahechizu.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "negiun.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "negiun.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "tango.suppa.jp:generated-keyword-word-salad",
+      "host": "tango.suppa.jp",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "paradise.kagennotuki.com:generated-keyword-word-salad",
+      "host": "paradise.kagennotuki.com",
+      "scope": "path_prefix",
+      "path": "/",
+      "campaign": "generated-keyword-word-salad"
+    },
+    {
+      "id": "uzezareo.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "uzezareo.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "habtsudari.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "habtsudari.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "pemeemozaawa.hatenadiary.jp:affiliate-ranking-review-montages",
+      "host": "pemeemozaawa.hatenadiary.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "yuhejipi.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "yuhejipi.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "yazetochi.hatenadiary.com:affiliate-ranking-review-montages",
+      "host": "yazetochi.hatenadiary.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "imieanniji.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "imieanniji.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "keruhega.hatenablog.jp:affiliate-ranking-review-montages",
+      "host": "keruhega.hatenablog.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "egniukage.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "egniukage.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "gopakunua.hateblo.jp:affiliate-ranking-review-montages",
+      "host": "gopakunua.hateblo.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "hoieze.hatenadiary.jp:affiliate-ranking-review-montages",
+      "host": "hoieze.hatenadiary.jp",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "zubh.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "zubh.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    },
+    {
+      "id": "yoshiyako.hatenablog.com:affiliate-ranking-review-montages",
+      "host": "yoshiyako.hatenablog.com",
+      "scope": "path_prefix",
+      "path": "/entry",
+      "campaign": "affiliate-ranking-review-montages"
+    }
+  ]
+}
